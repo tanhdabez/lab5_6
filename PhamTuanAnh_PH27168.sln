@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppData", "AppData\AppData.csproj", "{DE9416BE-CAF9-4D23-8EA3-E316F9EDB673}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppAPI", "AppAPI\AppAPI.csproj", "{EB0CD19D-23A0-4639-80B2-9D8124B08BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppView", "AppView\AppView.csproj", "{C4724855-82EB-4AEF-A8EB-3A3675C353E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE9416BE-CAF9-4D23-8EA3-E316F9EDB673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9416BE-CAF9-4D23-8EA3-E316F9EDB673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9416BE-CAF9-4D23-8EA3-E316F9EDB673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9416BE-CAF9-4D23-8EA3-E316F9EDB673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0CD19D-23A0-4639-80B2-9D8124B08BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0CD19D-23A0-4639-80B2-9D8124B08BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0CD19D-23A0-4639-80B2-9D8124B08BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0CD19D-23A0-4639-80B2-9D8124B08BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4724855-82EB-4AEF-A8EB-3A3675C353E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4724855-82EB-4AEF-A8EB-3A3675C353E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4724855-82EB-4AEF-A8EB-3A3675C353E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4724855-82EB-4AEF-A8EB-3A3675C353E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA6DC9AD-A846-4D02-B6ED-DF0AD0819A6D}
+	EndGlobalSection
+EndGlobal
